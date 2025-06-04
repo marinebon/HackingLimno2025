@@ -5,6 +5,9 @@ Notebooks and code for the Hacking Limno 2025 Workshop on biodiversity data.
 
 Notebooks in progress:
 * [tylar pyobis-corals based](https://colab.research.google.com/drive/1L8XN3KKgfwC-32axxv3tspX0-e2CQhGd?usp=sharing)
+* TODO: erdappy query
+* erdap + obis sampling to create occurence+environmental table
+* samples into SDM
 
 data sources
 * [list of EOV aphiaIDs](https://github.com/ioos/marine_life_data_network/blob/main/eov_taxonomy/IdentifierList.csv)
