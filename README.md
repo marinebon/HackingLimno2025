@@ -40,3 +40,20 @@ pyobis examples
 other obis examples
 * [robis EOV H3 grids](https://github.com/NOAA-GIS4Ocean/BioEco_EOV/blob/main/EOV_obisindicators_hex.R)
 * [robis EOV queries](https://ioos.github.io/ioos_code_lab/content/code_gallery/data_analysis_and_visualization_notebooks/2024-09-13-OBIS_EOVs.html)
+
+
+## Session title: Mapping biodiversity indicator species using open data
+
+## Lead(s): Tylar Murray (tylar.murray@usf.edu, murray.tylar@gmail.com), Mathew Biddle (mathew.biddle@noaa.gov) 
+
+## Date: July 21-23
+
+## Duration: 1.5hrs
+
+## Abstract:
+The Global Ocean Observing System (GOOS), with NOAA's U.S. Integrated Ocean Observing System (IOOS) as part of it, uses Biological and Ecological Essential Ocean Variables (BioEco EOVs) to standardize ocean observing data from communities like the Marine Biodiversity Observation Network (MBON). The GOOS Biology and BioEco Variables focus on the abundance and distribution of key aquatic organisms. Using predefined lists of species, one can query biological occurrence data from the Ocean Biodiversity Information System (OBIS) and the Global Biodiversity Information Facility (GBIF). After querying, users can analyze OBIS and GBIF occurrence data to study the abundance and distribution of these BioEco Variables. This occurrence data can then be combined with gridded and tabular environmental data served by ERDDAP to further analyze into products (e.g. species distribution models). In this workshop we will demonstrate the tools and techniques for assessing ecosystem health using this open science framework. 
+
+## Resources:
+Robis query to OBIS for EOVs: https://ioos.github.io/ioos_code_lab/content/code_gallery/data_analysis_and_visualization_notebooks/2024-09-13-OBIS_EOVs.html 
+Using pyobis - https://ioos.github.io/ioos_code_lab/content/code_gallery/data_access_notebooks/2022-11-23_pyobis_example.html 
+Searching for data across multiple ERDDAPs: https://ioos.github.io/ioos_code_lab/content/code_gallery/data_access_notebooks/2021-10-19-multiple-erddap-search.html 
