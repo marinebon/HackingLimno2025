@@ -3,6 +3,16 @@ Notebooks and code for the Hacking Limno 2025 Workshop on biodiversity data.
 
 [abstract](https://docs.google.com/document/d/1MUzUd9bXD4eNiDiEqdbZ7VlchHqBCh-QKscqf4aqxTg/edit?tab=t.0)
 
+## steps
+1. find relevant OBIS & ERDDAP data 
+2. build OBIS samples table
+3. add environmental data to samples table from ERDDAP
+4. use samples table to characterize taxa
+    * what environments does the taxa live in
+    * SDM model 
+
+## references
+
 Notebooks in progress:
 * [tylar pyobis-corals based](https://colab.research.google.com/drive/1L8XN3KKgfwC-32axxv3tspX0-e2CQhGd?usp=sharing)
 * TODO: erdappy query
