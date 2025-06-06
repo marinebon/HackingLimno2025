@@ -1,5 +1,5 @@
 # HackingLimno2025
-Notebooks and code for the Hacking Limno 2025 Workshop on biodiversity data.
+Notebooks and code for the [Hacking Limno 2025 Workshop](https://aquaticdatasciopensci.github.io/) on biodiversity data.
 
 [abstract](https://docs.google.com/document/d/1MUzUd9bXD4eNiDiEqdbZ7VlchHqBCh-QKscqf4aqxTg/edit?tab=t.0)
 
@@ -57,6 +57,6 @@ July 21-23
 The Global Ocean Observing System (GOOS), with NOAA's U.S. Integrated Ocean Observing System (IOOS) as part of it, uses Biological and Ecological Essential Ocean Variables (BioEco EOVs) to standardize ocean observing data from communities like the Marine Biodiversity Observation Network (MBON). The GOOS Biology and BioEco Variables focus on the abundance and distribution of key aquatic organisms. Using predefined lists of species, one can query biological occurrence data from the Ocean Biodiversity Information System (OBIS) and the Global Biodiversity Information Facility (GBIF). After querying, users can analyze OBIS and GBIF occurrence data to study the abundance and distribution of these BioEco Variables. This occurrence data can then be combined with gridded and tabular environmental data served by ERDDAP to further analyze into products (e.g. species distribution models). In this workshop we will demonstrate the tools and techniques for assessing ecosystem health using this open science framework. 
 
 ## Resources:
-Robis query to OBIS for EOVs: https://ioos.github.io/ioos_code_lab/content/code_gallery/data_analysis_and_visualization_notebooks/2024-09-13-OBIS_EOVs.html 
-Using pyobis - https://ioos.github.io/ioos_code_lab/content/code_gallery/data_access_notebooks/2022-11-23_pyobis_example.html 
-Searching for data across multiple ERDDAPs: https://ioos.github.io/ioos_code_lab/content/code_gallery/data_access_notebooks/2021-10-19-multiple-erddap-search.html 
+* Robis query to OBIS for EOVs: https://ioos.github.io/ioos_code_lab/content/code_gallery/data_analysis_and_visualization_notebooks/2024-09-13-OBIS_EOVs.html 
+* Using pyobis - https://ioos.github.io/ioos_code_lab/content/code_gallery/data_access_notebooks/2022-11-23_pyobis_example.html 
+* Searching for data across multiple ERDDAPs: https://ioos.github.io/ioos_code_lab/content/code_gallery/data_access_notebooks/2021-10-19-multiple-erddap-search.html 
