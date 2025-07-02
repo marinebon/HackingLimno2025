@@ -1,0 +1,17 @@
+name: hackinglimno
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - erddapy
+  - geoplot
+  - geopandas
+  - jupyter
+  - matplotlib
+  - netcdf4
+  - pandas
+  - plotly
+  - pyarrow
+  - pyobis
+  - requests
+  - xarray
