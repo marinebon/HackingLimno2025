@@ -1,0 +1,44 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: HackingLimno2025
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tylar
+    family-names: Murray
+    orcid: 'https://orcid.org/0000-0001-8241-1919'
+  - given-names: Mathew
+    family-names: Biddle
+    orcid: 'https://orcid.org/0000-0003-4897-1669'
+  - given-names: Mehraz
+    family-names: Rumman
+repository-code: 'https://github.com/marinebon/HackingLimno2025'
+url: >-
+  https://aquaticdatasciopensci.github.io/day1-marine-remote-sensing/
+abstract: >-
+  The Global Ocean Observing System (GOOS), with NOAA's U.S.
+  Integrated Ocean Observing System (IOOS) as part of it,
+  uses Biological and Ecological Essential Ocean Variables
+  (BioEco EOVs) to standardize ocean observing data from
+  communities like the Marine Biodiversity Observation
+  Network (MBON). The GOOS Biology and BioEco Variables
+  focus on the abundance and distribution of key aquatic
+  organisms. Using predefined lists of species, one can
+  query biological occurrence data from the Ocean
+  Biodiversity Information System (OBIS) and the Global
+  Biodiversity Information Facility (GBIF). After querying,
+  users can analyze OBIS and GBIF occurrence data to study
+  the abundance and distribution of these BioEco Variables.
+  This occurrence data can then be combined with gridded and
+  tabular environmental data served by ERDDAP to further
+  analyze into products (e.g. species distribution models).
+  In this workshop we will demonstrate the tools and
+  techniques for assessing ecosystem health using this open
+  science framework.
+license: CC0-1.0
+version: v1.0
+date-released: '2025-07-15'
