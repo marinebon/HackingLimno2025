@@ -1,4 +1,7 @@
 # HackingLimno2025
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15924033.svg)](https://doi.org/10.5281/zenodo.15924033)
+
 Notebooks and code for the [Hacking Limno 2025 Workshop](https://aquaticdatasciopensci.github.io/) on biodiversity data.
 
 [Accompanying presentation](https://docs.google.com/presentation/d/1BDsl73n5h1Ka38kTdU8vA1XCmb7olyJjstp_1SBIOp0/edit?usp=sharing)
